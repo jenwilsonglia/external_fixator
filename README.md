@@ -18,3 +18,10 @@ This project is heavily based on work by the Imperial College London team in pro
 ## Assembly instructions
 
 
+## Development
+To open the CAD files, please use:
+ * FreeCAD v1.1 (currently in Dev)
+ * From "Addons", add the following:
+   * Parametric Curves FP
+   * Curves Workbench
+
